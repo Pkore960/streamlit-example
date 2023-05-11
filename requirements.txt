@@ -4,3 +4,9 @@ streamlit
 numpy
 yfinance
 sklearn
+datetime
+time
+keras
+matplotlib
+plotely
+cufflinks
