@@ -1,12 +1,3 @@
 altair
 pandas
 streamlit
-numpy
-yfinance
-sklearn
-datetime
-time
-keras
-matplotlib.pyplot
-plotly
-cufflinks
