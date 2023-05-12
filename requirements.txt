@@ -7,6 +7,6 @@ sklearn
 datetime
 time
 keras
-matplotlib
-plotely
+matplotlib.pyplot
+plotly
 cufflinks
