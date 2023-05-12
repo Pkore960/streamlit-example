@@ -1,12 +1,3 @@
 altair
 pandas==1.16.0
 streamlit==0.1.2
-numpy==1.23.5
-yfinance==2.21
-sklearn==0.0.post5
-datetime==65.5.0
-time
-keras==2.12.0
-matplotlib==1.16.0
-plotly==23.0
-cufflinks
